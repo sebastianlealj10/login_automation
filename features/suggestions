@@ -1,0 +1,9 @@
+Suggestions
+
+- The form should not be in a question, it is better to say Email, Password etc rather that What is your email?
+- There is a radio button for new customers but any option is included in the login, if it is a new customer should
+have the option to create an account
+- Present the password options in radio buttons is not a good practice, it is enough to have a password field.
+- The sign button should be aligned to right, it is more comfortable to the user
+- If there is a secure sign in why it is necessary to put a password there?
+- The sign in button is too long

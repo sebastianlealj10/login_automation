@@ -1,0 +1,8 @@
+Defects
+
+- The ID should not allow special characters
+- The system is validating a empty email
+- The verification is not clear to be read
+- The Name field is allowing numbers
+- The text in the register button has a typo, it should be Register
+- The text in the header has a typo, it should be New Registration
