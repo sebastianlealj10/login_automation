@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "228aafc7ac841b0a5d453e08766248ec5b8c168964e78202b45e298d4eec5ad8"
+            "sha256": "c924d2d0aaeda5383a8105643e7d9c1e55ffcf7229a4249de2b5d5ae8a06437f"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.9"
+            "python_version": "3.7.3"
         },
         "sources": [
             {
@@ -16,6 +16,29 @@
         ]
     },
     "default": {
+        "allure-behave": {
+            "hashes": [
+                "sha256:a9efdab638bd6792be153d2698e6566b47229ba08540d7938e678f5127a94e14",
+                "sha256:e14d737593c6b57d4c24ba7644f2c805f0a07b8aa6c9b0d2d31b85b07fad127c"
+            ],
+            "index": "pypi",
+            "version": "==2.8.36"
+        },
+        "allure-python-commons": {
+            "hashes": [
+                "sha256:3f76ffceafafff1960d328e2b1f47e5b22fa449b25e80dcf185f01a0295d26b4",
+                "sha256:ea863a987aabd8a6c8b91f74e361dda0b1526c29aaba00eb346bd747c7d95905"
+            ],
+            "version": "==2.8.36"
+        },
+        "attrs": {
+            "hashes": [
+                "sha256:31b2eced602aa8423c2aea9c76a724617ed67cf9513173fd3a4f03e3a929c7e6",
+                "sha256:832aa3cde19744e49938b91fea06d69ecb9e649c93ba974535d08ad92164f700"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==20.3.0"
+        },
         "behave": {
             "hashes": [
                 "sha256:b9662327aa53294c1351b0a9c369093ccec1d21026f050c3bd9b3e5cccf81a86",
@@ -83,6 +106,14 @@
             ],
             "markers": "python_version >= '2.6' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==0.5.2"
+        },
+        "pluggy": {
+            "hashes": [
+                "sha256:15b2acde666561e1298d71b523007ed7364de07029219b604cf808bfa1c765b0",
+                "sha256:966c145cd83c96502c3c3868f50408687b38434af77734af1e9ca461a4081d2d"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==0.13.1"
         },
         "requests": {
             "hashes": [
