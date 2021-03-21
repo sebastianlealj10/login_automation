@@ -3,7 +3,6 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                export PIPENV_VENV_IN_PROJECT=1
                 sh 'pipenv install --dev'
             }
         }
