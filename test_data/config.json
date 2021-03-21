@@ -1,15 +1,2 @@
 {
-  "users": {
-    "Jhon": {
-      "username": "test.python1@test.com",
-      "password": "Password1"
-    },
-    "Maria": {
-      "username": "test.javascript@test.com",
-      "password": "Password1"
-    }
-  },
-  "urls": {
-    "base_url": "http://automationpractice.com/index.php?controller=authentication&back=my-account"
-  }
 }
